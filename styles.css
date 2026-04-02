@@ -112,6 +112,7 @@ h3{
         
     }
     .correcta{
+        transform-origin: top left;
         animation: correct-li 2300ms ease-out 3000ms;
         animation-fill-mode: forwards;
     }   
